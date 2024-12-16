@@ -1,0 +1,5 @@
+fsm_automatic.c:11:6:update_led7seg	4	static
+fsm_automatic.c:18:6:update_led_for_1s	8	static
+fsm_automatic.c:27:6:led7_segRun	8	static
+fsm_automatic.c:83:6:traffic_lightRun	8	static
+fsm_automatic.c:137:6:fsm_automatic	8	static
